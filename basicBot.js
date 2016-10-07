@@ -245,7 +245,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/Untuned/Syntax-Bot/master/basicBot.js",
         cmdLink: "https://git.io/syntaxbot-cmds",
-        chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
+        chatLink: "https://rawgit.com/Untuned/Syntax-Bot/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -253,8 +253,8 @@
         settings: {
             botName: "SyntaxBot",
             language: "english",
-            chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
-            scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+            chatLink: "https://rawgit.com/Untuned/Syntax-Bot/master/lang/en.json",
+            scriptLink: "https://rawgit.com/Untuned/Syntax-Bot/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
